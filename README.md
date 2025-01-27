@@ -29,12 +29,13 @@ Due to the importance of new technologies in the market, I am also bulding my pr
 
 
 <h3 align="left">Mechanical Engineer Tools:</h3>
-- Solidworks
-- Autodesk Inventor (including iLogic module)
-- CATIA 
-- Autocad
-- Revit & Naviswork (3D model, families, Fab Parts and Clash detective)
-- Bluebeam.
+
+ - Solidworks
+ - Autodesk Inventor (including iLogic module)
+ - CATIA 
+ - Autocad
+ - Revit & Naviswork (3D model, families, Fab Parts and Clash detective)
+ - Bluebeam.
 
 
 
