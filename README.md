@@ -32,7 +32,7 @@ Due to the importance of new technologies in the market, I am also bulding my pr
 -  Programming languages: VBA, Python.
 - Frameworks and tools: Pandas, Numpy, MatplotLib, Git (Github), Trello, Click Up, ASANA.
 - Database: Excel, Google Cloud, Google Sheets, SQL, PostgreSQL, MySQL.
-- Data visualization: ![Power BI] (https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg), Looker Studio.
+- Data visualization: ![PowerBI] (https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg), Looker Studio.
 
 
 
